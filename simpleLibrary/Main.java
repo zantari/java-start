@@ -84,7 +84,7 @@ public class Main {
                     }
                 }
                 else{
-                    System.out.println("wrong number! Press 1 to check our books, or 2 to exit!");
+                    System.out.println("wrong number! Press 1 to check our books, 2 to check your borrowed books, or 3 to exit!");
                 }
             }
             else{
